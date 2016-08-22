@@ -1,5 +1,6 @@
 # temporary_local_admin
 C# Program to grant the logged on user local administrator rights
+
 ![alt tag](https://raw.githubusercontent.com/omgdanieltam/temporary_local_admin/master/temp-admin.png)
 
 #INTRODUCTION
